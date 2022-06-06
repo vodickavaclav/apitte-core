@@ -21,7 +21,7 @@
   "require": {
     "php": ">=7.3",
     "ext-json": "*",
-    "contributte/psr7-http-message": "~0.7.0",
+    "contributte/psr7-http-message": "^0.8.0",
     "doctrine/annotations": "^1.13",
     "koriym/attributes": "^1.0.2",
     "nette/utils": "^3.0.3"
